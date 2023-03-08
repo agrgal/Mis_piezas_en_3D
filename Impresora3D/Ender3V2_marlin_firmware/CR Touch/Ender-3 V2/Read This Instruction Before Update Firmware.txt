@@ -1,0 +1,1 @@
+In this file- Firmwares of CR Touch for Ender-3 V2 Series with 32-bit motherboard. Before update any firmwares, please refer to "CR Touch Firmware Version for 32-bit Motherboard" for more details on how to select firmwares.
